@@ -140,10 +140,10 @@
                     <table class="table table-bordered" style="background: white;" id="resultTable" data-responsive="table" style="text-align: left;">
     <thead>
         <tr>
-            <th width=""> Stock Type </th>
-            <th width=""> Qty </th>
-            <th width=""> StockDate </th>
-            <th width=""> TimeOfDay </th>
+            <th width="">Stock Type</th>
+            <th width="">Qty</th>
+            <th width="">StockDate</th>
+            <th width="">TimeOfDay</th>
         </tr>
     </thead>
     <tbody>

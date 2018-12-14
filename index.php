@@ -1,4 +1,4 @@
-<?php?>
+<?php ;?>
 <!doctype html>
 <html lang="en">
 
@@ -22,7 +22,7 @@
     <!-- Sidebar -->
     <ul class="sidebar" id="mtabs">
         <img src="waziupLogo.png" class="logo" alt="Waziup">
-        <h4 class="text-center" style="color:#1BA1E7">SmartChick </h4>
+        <h4 class="text-center" style="color:#1BA1E7">SmartFarm </h4>
         <li class="active">
             <a href="#context" rel="context">
                 <h5 style="color:white">Feeding <i class="fab fa-bitbucket"></i></h5>

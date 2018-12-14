@@ -103,7 +103,7 @@
                 <canvas id="myChart" width="800" height="600">Loading...</canvas>
             </div>
 
-            <div id="stockform" class="stockform_content">
+            <div id="stockform" class="mtab_content">
                 <div>
                     <ul class="list-group">
                         <li class="list-group-item active">Daily Stock Management<span id="sensor_value_id"></span></li>
@@ -135,7 +135,7 @@
                 </div>
             </div>
 
-            <div id="stockreport" class="stockreport_content">
+            <div id="stockreport" class="mtab_content">
                 <div>
                     <table class="table table-bordered" style="background: white;" id="resultTable" data-responsive="table" style="text-align: left;">
     <thead>
